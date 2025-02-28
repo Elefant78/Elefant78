@@ -1,6 +1,6 @@
 ## Hi 👋
 
-# I'm currently undergoing the process of becoming a competant Programmer
+I'm currently undergoing the process of becoming a competant Programmer
 
 **especially** in:
     C#
