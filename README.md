@@ -2,7 +2,8 @@
 
 I'm currently undergoing the process of becoming a competant Programmer
 
-**especially** in:  
+**especially** in: 
+
     C#  
     HTML/CSS  
     JavaScript  
