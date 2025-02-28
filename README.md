@@ -3,7 +3,7 @@
 I'm currently undergoing the process of becoming a competant Programmer
 
 **especially** in:  
- *Tabspace* C#  
+ nbsp C#  
     HTML/CSS  
     JavaScript  
     SQL  
